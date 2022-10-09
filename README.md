@@ -43,3 +43,11 @@ npm start
 cd nerdle
 yarn start
 ```
+
+### 4. Change Answer
+
+- Please change the environment variable, if you want to change the answer.
+
+```sh
+REACT_APP_CORRECT_ANSWER="YOUR_ANSWER"
+```
